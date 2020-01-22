@@ -1,0 +1,10 @@
+
+print('1 - Soma' + '\n'
+     + '2 - Subtracao'+ '\n'
+     + '3 - Multiplicacao'+ '\n'
+     + '4 - Divisao')
+
+inp = input('Digite a opcao desejada (1,2,3 ou 4): ')
+
+"""if inp == '1':
+    return 'teste'"""
